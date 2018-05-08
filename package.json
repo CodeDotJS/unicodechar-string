@@ -1,0 +1,39 @@
+{
+  "name": "unicodechar-string",
+  "version": "1.0.0",
+  "description": "Convert unicode escape sequence to a character!",
+  "main": "index.js",
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeDotJS/unicodechar-string.git"
+  },
+  "keywords": [
+    "unicode",
+    "convert",
+    "escape",
+    "character",
+    "sequence",
+    "string",
+    "emoji"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "ava": "^0.15.0",
+    "xo": "^0.16.0"
+  },
+  "xo": {
+    "esnext": true
+  },
+  "author": "Rishi Giri <rushforlinux@gmail.com> (http://rishigiri.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CodeDotJS/unicodechar-string/issues"
+  },
+  "homepage": "https://github.com/CodeDotJS/unicodechar-string#readme"
+}
